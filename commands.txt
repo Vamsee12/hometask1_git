@@ -14,5 +14,5 @@ git merge master
 
 git status
 ls (to see number of files in branch)
-
+git cherry-pic filename.txt
 
